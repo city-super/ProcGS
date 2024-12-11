@@ -6,7 +6,7 @@
 
 The Chinese University of Hong Kong, Shanghai AI Laboratory, Brown University, Cornell University, The University of Hong Kong
 
-[[`Paper`]()] 
+[[`Paper`](https://arxiv.org/abs/2412.07660)] 
 [[`Project Page`](https://city-super.github.io/procgs/)]
 
 ![teaser](figures/teaser.png)
