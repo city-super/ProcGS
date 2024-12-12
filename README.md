@@ -11,4 +11,4 @@ The Chinese University of Hong Kong, Shanghai AI Laboratory, Brown University, C
 
 ![teaser](figures/teaser.png)
 
-Code coming soon ...
+Code will be released upon paper acceptance.
